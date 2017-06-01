@@ -5,3 +5,5 @@
 - 2장 ~ 5장
 - 2.1.5 ~ latest 에서 바뀐 것은?
 
+## 교재
+Mastering TypeScript - Second Edition
