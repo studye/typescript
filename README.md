@@ -14,6 +14,8 @@
   - http://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-2.html
 - Typescript 2.3: `김상욱`
   - http://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-3.html
+- Typescript 2.4: `손찬욱`
+  - http://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-4.html
 - Typescript를 이용하여 개발 시작하기: `손찬욱`
 
 ## 교재
